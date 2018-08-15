@@ -6,6 +6,8 @@
 #COMANDOS AGREGADOS POR MI---LINEA1
 #COMANDOS AGREGADOS POR MI---LINEA2
 
+##NUevos cambios
+
 SHELL=/bin/sh
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
